@@ -19,7 +19,7 @@ prefix =''#yourgmail prefix. example: test@gmail.com your prefix would be test
 x = 0
 def main():
     first,last,dob,address,city,postcode,username = profile.gen()
-    email = prefix+'+'+username+'@gmail.com'
+    email = prefix+'+'jesusgalindo1626'@gmail.com'
     print(email)
     sesh = requests.session()
     sesh.headers = {
